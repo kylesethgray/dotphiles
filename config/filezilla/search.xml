@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<FileZilla3 version="3.27.0.1" platform="mac">
+	<Filter>
+		<Name />
+		<ApplyToFiles>1</ApplyToFiles>
+		<ApplyToDirs>1</ApplyToDirs>
+		<MatchType>All</MatchType>
+		<MatchCase>1</MatchCase>
+		<Conditions>
+			<Condition>
+				<Type>0</Type>
+				<Condition>0</Condition>
+				<Value>settings</Value>
+			</Condition>
+		</Conditions>
+	</Filter>
+</FileZilla3>

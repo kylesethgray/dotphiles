@@ -1,0 +1,1 @@
+/Users/kyle.gray/.config/fisherman/functions/fisher.fish
